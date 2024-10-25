@@ -24,9 +24,9 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [Python]
 - [Frameworks used]
-- [Libraries used]
+- [tkinter]
 - [Tools used]
 
 For Hardware:
