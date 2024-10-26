@@ -85,7 +85,7 @@ For Hardware:
 ## Team Contributions
 - [Jayakrishna S Menon]: [Basic UI designer]
 - [Devasandra]: [Code developer]
-- [Christo Noble]: [Debugger]
+- [Christo Noble]: [Code developer]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
