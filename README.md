@@ -8,9 +8,9 @@
 
 
 ### Team Members
-- Team Lead: [jayakrishna] - [College]
-- Member 2: [christo] - [College]
-- Member 3: [devasandra] - [College]
+- Team Lead: jayakrishna - SSET
+- Member 2: christo - SSET
+- Member 3: devasandra - SSET
 
 ### Project Description
 [2-3 lines about what your project does]
