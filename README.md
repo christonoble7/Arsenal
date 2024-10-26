@@ -1,33 +1,29 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
-# [Project Name] 🎯
+# OVEN 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: ARSENAL
 
 
 ### Team Members
-- Team Lead: jayakrishna - SSET
-- Member 2: christo - SSET
-- Member 3: devasandra - SSET
+- Team Lead: Jayakrishna S Menon - SSET
+- Member 2: Christo Noble - SSET
+- Member 3: Devasandra A - SSET
 
 ### Project Description
-[2-3 lines about what your project does]
-
-### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
+Our project inputs the users name and the targets name and how well you want to cook the target,the o/p is a random o/p from the list of AI generated roasts 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We used qt designer to design a UI ,the appropriate python code is developed and the functionality is incorporated into the GUI]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
 - [Python]
 - [Frameworks used]
-- [tkinter]
-- [Tools used]
+- [PyQt5]
+- [Qt designer]
 
 For Hardware:
 - [List main components]
@@ -87,9 +83,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Jayakrishna S Menon]: [Basic UI designer]
+- [Devasandra]: [Code developer]
+- [Christo Noble]: [Debugger]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
